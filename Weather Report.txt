@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Report : FARIDABAD  || 23 Jun 2021 | 01:44:25 PM
+-------------------------------------------------------------
+Current temperature :    39.14 ℃
+Current weather desc :  clear sky
+Current Humidity :  15%
+Current wind speed :  2.8 kmph
